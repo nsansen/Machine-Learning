@@ -1,0 +1,34 @@
+
+Machine learning tutorial https://developers.google.com/machine-learning/crash-course/
+
+Kaggle
+https://www.kaggle.com/learn/overview
+
+Gia Python ML, pandas tutorials tsekare:
+https://www.kaggle.com/learn/overview
+
+Gia interviews se ML k data science koita:
+https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/
+
+eidika auto... https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/
+
+Epishs:
+
+https://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
+
+https://www.kdnuggets.com/2017/10/top-10-machine-learning-algorithms-beginners.html
+
+Epishs kane ena logariasmo sto github kai anebase scriptakia pou exei kanei h' pou 9a kaneis se python, mathematica, ipython notebooks (h' jupyter notebooks) kai oti allo exeis. 9a se boh9hsei na tous deikseis ti douleia exeis kanei genika ktl ktl
+
+Px tsekare edw:
+https://github.com/tbitsakis/astro_projects
+(ta dika mou jupyter notebooks .ipynb)
+
+
+Python libraries:
+install with pip: 
+pip install numpy
+			pandas
+			scipy
+			sklearn
+			jupyter notebook
